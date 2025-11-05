@@ -6,7 +6,7 @@ Automating construction site monitoring through deep learning-based segmentation
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ### **Data and Code Availability:** 
-To enhance the transparency and reproducibility of this research, the full dataset cannot be publicly released due to contractual and security restrictions. However, a portion of the dataset approved for release, along with the prototype version of the implementation code, will be made available through a dedicated GitHub repository after the paper is accepted for publication. All released materials will exclude sensitive or proprietary information to comply with safety regulations and privacy protection requirements.
+Due to contractual and security restrictions, the complete dataset cannot be publicly shared. A subset of the dataset that is cleared for external release, together with a prototype implementation of the code, will be provided in a dedicated GitHub repository upon acceptance of the paper. All publicly released materials will exclude sensitive and proprietary information and will comply with privacy and security regulations.
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 
